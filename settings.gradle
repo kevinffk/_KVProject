@@ -1,1 +1,1 @@
-include ':_KVProjectLib'
+include ':_KVProjectLib', ':_KVProjectDemo'

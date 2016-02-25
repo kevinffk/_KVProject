@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/_KVProject.iml" filepath="$PROJECT_DIR$/_KVProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_KVProjectDemo/_KVProjectDemo.iml" filepath="$PROJECT_DIR$/_KVProjectDemo/_KVProjectDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/_KVProjectLib/_KVProjectLib.iml" filepath="$PROJECT_DIR$/_KVProjectLib/_KVProjectLib.iml" />
     </modules>
   </component>
