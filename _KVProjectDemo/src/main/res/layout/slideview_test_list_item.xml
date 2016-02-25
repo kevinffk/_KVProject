@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:swipeitemview="http://schemas.android.com/apk/res/com.kv.iprojectdemo" >
+    <com.kv.iprojectlib.plugin.slidelistview.SwipeItemView
+        android:id="@+id/swipe_item_view"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:clickable="true"
+        swipeitemview:enableSliding="true"
+        swipeitemview:primaryView="@layout/slideview_test_list_item_primary"
+        swipeitemview:slidingView="@layout/slideview_test_list_item_slide"/>
+</RelativeLayout>

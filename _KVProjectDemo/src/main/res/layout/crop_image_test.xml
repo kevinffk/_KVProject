@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:id="@+id/rootly">
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Crop..." />
+    <ImageView 
+        android:id="@+id/iv"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"    
+    />
+</LinearLayout>
