@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">_iProj_test</string>
+    <string name="btn1">DB ORMlite</string>
+    <string name="btn2">ZXing</string>
+    <string name="btn3">Crop image</string>
+    <string name="btn4">Simple Gesture Image</string>
+    <string name="btn5">Pull 2 Refresh</string>
+    <string name="btn6">SwipeListView</string>
+    <string name="btn7">Http</string>
+    <string name="btn8">Dialog</string>
+</resources>

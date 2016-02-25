@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kv.iprojectdemo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.kv.iprojectdemo.MainAct"
+            android:label="@string/app_name" 
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="com.kv.iprojectdemo.db.OrmliteMainAct"/>
+        <activity android:name="com.kv.iprojectdemo.zxing.ZxingAct"/>
+        <activity android:name="com.kv.iprojectdemo.cropimage.CropImageTestAct"/>
+        <activity android:name="com.kv.iprojectdemo.gestureimage.GestureImageAct"/>
+        <activity android:name="com.kv.iprojectdemo.pull2refresh.Pull2RefreshAct"/>
+        <activity android:name="com.kv.iprojectdemo.slideview.SlideViewTestAct"/>
+        <activity android:name="com.kv.iprojectdemo.http.HttpTestAct"/>
+        <activity android:name="com.kv.iprojectdemo.dialog.DialogTestAct"/>
+        
+        <!-- zxing -->
+        <activity android:name="com.kv.iprojectlib.plugin.qrcodescan.MipcaActivityCapture"/>
+        
+        <!-- crop image -->
+        <activity android:name="com.kv.iprojectlib.plugin.cropimage.CropImage" />
+
+        <provider
+            android:name="com.kv.iprojectdemo.cropimage.TestStorageContentProvider"
+            android:authorities="com.kv.iprojectdemo.plugin.cropphoto"
+            android:exported="true" />
+        
+        
+    </application>
+
+    <!-- 扫描 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    
+    <!-- 截图 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    
+    <!-- http -->
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
