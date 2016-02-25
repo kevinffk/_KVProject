@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- crop image ci -->
+    <string name="ip_ci_cancel">取消</string>
+    <string name="ip_ci_save">保存</string>
+    <string name="ip_ci_saving_image">Saving image</string>
+    <string name="ip_ci_preparing_card">Preparing card</string>
+    <string name="ip_ci_no_storage_card">No storage card</string>
+    <string name="ip_ci_not_enough_space">Not enough space</string>
+    
+    <string name="ip_ci_menu_gallery">图片集</string>
+    <string name="ip_ci_menu_take_photo">拍照</string>
+    
+    <!-- qrcode scan qr -->
+    <string name="ip_qr_scan_text">将商品条码放入框内, 即可自动扫描</string>
+    <string name="ip_qr_scan_title">扫一扫</string>
+    
+    <!-- pulltorefresh pr -->
+    <string name="ip_pr_header_hint_refresh_normal">下拉刷新</string>
+    <string name="ip_pr_header_hint_refresh_ready">释放更新</string>
+    <string name="ip_pr_header_hint_refresh_loading">加载中...&#8230;</string>
+    <string name="ip_pr_header_hint_refresh_time">更新于：</string>
+    <string name="ip_pr_footer_hint_load_normal">加载更多</string>
+    <string name="ip_pr_footer_hint_load_again">加载失败,点击重新加载</string>
+    <string name="ip_pr_footer_hint_load_ready">释放加载更多</string>
+    
+    <!-- validtor -->
+    <string name="ip_va_not_null">输入的%1$s不可为空.</string>
+    <string name="ip_va_eq_length">输入的%1$s长度为%2$s位.</string>
+    <string name="ip_va_less_length">输入的%1$s长度至少为%2$s位.</string>
+    <string name="ip_va_not_eq">输入的%1$s不一致.</string>
+    <string name="ip_val_bigger_zero">输入的%1$s必须大于0.</string>
+    
+    <!-- uncaught exception handler -->
+    <string name="ip_error_exit_msg">很抱歉,%1$s出现异常,即将退出.</string>
+    
+    <!-- dialog -->
+    <string name="ip_dialog_sure">确定</string>
+    <string name="ip_dialog_cancel">取消</string>
+    <string name="ip_dialog_default_title">提示</string>
+    
+    <!-- error response -->
+    <string name="ip_res_network_error">网路异常.</string>
+    <string name="ip_res_client_error">服务器端异常.</string>
+    <string name="ip_res_server_error">服务器异常.</string>
+    <string name="ip_res_auth_failure_error">鉴权失败异常.</string>
+    <string name="ip_res_parseerror">网络解析异常.</string>
+    <string name="ip_res_noconnection_error">网络链接异常.</string>
+    <string name="ip_res_timeout_error">网络超时异常.</string>
+</resources>

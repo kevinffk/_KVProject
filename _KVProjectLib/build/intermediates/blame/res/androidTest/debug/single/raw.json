@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\ip_qr_beep.ogg",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\raw\\ip_qr_beep.ogg"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\ip_qr_beep.ogg",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\raw\\ip_qr_beep.ogg"
+    }
+]

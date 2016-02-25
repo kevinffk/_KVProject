@@ -1,0 +1,38 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kv.iprojectlib"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="19" />
+
+    <!-- 扫描 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    
+        <!-- 截图 -->
+        <activity android:name="com.kv.iprojectlib.plugin.cropimage.CropImage" />
+
+        <provider
+            android:name="com.kv.mobilepayhub.ext.cropphoto.InternalStorageContentProvider"
+            android:authorities="com.kv.mobilepayhub.ext.cropphoto"
+            android:exported="true" />
+        
+        <!-- 图片缩放 -->
+        <activity
+            android:name="com.kv.mobilepayhub.ImageDisplayAct"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" />
+        
+        <!-- 扫描 -->
+        <activity
+            android:name="com.kv.iprojectlib.plugin.qrcodescan.MipcaActivityCapture"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" 
+            android:windowSoftInputMode="stateAlwaysHidden"/>
+</manifest>

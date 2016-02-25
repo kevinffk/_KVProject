@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_cm_titlebar.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_cm_titlebar.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_ci_pop_gallery_menu.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_ci_pop_gallery_menu.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_ci_pop_gallery_menu.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_ci_pop_gallery_menu.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_progressdlg.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_progressdlg.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_qr_capture.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_qr_capture.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_cm_titlebar.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_cm_titlebar.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_dialog.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_dialog.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_pr_vw_footer.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_pr_vw_footer.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_pr_vw_header.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_pr_vw_header.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_toast.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_toast.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_progressdlg.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_progressdlg.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_dialog.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_dialog.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_pr_vw_header.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_pr_vw_header.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_ci_cropimage.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_ci_cropimage.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_pr_vw_xscrollview_layout.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_pr_vw_xscrollview_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_pr_vw_footer.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_pr_vw_footer.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_pr_vw_xscrollview_layout.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_pr_vw_xscrollview_layout.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_ci_cropimage.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_ci_cropimage.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_qr_capture.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_qr_capture.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ip_toast.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\ip_toast.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\ip_ci_push_bottom_out.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\ip_ci_push_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\ip_ci_push_bottom_out.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\anim\\ip_ci_push_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\ip_ci_push_bottom_in.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\ip_ci_push_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\ip_ci_push_bottom_in.xml",
+        "source": "E:\\android\\androidstadio\\projects\\_KVProject\\_KVProjectLib\\build\\intermediates\\bundles\\debug\\res\\anim\\ip_ci_push_bottom_in.xml"
+    }
+]

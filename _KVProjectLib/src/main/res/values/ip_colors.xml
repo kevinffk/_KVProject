@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ip -->
+    <color name="ip_dark_gray">#555555</color>
+    
+    <!-- qrcode scan qr -->
+    <color name="ip_qr_result_view">#b0000000</color>
+    <color name="ip_qr_viewfinder_mask">#60000000</color>
+    <color name="ip_qr_possible_result_points">#c0ffff00</color> 
+    
+    <!-- pulltorefresh pr -->
+    <color name="ip_pr_transparent">#00000000</color>
+    <color name="ip_pr_background">#F7F4F0</color>
+    <color name="ip_pr_title_color">#333333</color>
+    
+    
+</resources>
